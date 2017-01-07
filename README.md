@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Django SnapScan
 
 You can use the [editor on GitHub](https://github.com/tawanike/django-snapscan/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
